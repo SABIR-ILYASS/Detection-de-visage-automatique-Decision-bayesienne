@@ -1,1 +1,1 @@
-# Classification-bay-sienne
+# Classification-bayesienne
