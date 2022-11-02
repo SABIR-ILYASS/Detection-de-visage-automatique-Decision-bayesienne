@@ -1,4 +1,5 @@
 <img style="float: left" width="100%" height="100" alt="TSE"  src="https://www.telecom-st-etienne.fr/wp-content/themes/telecom/asset/images/logo.svg">
+
 # Classification bayesienne et ses application de detection automatique de visage.
 ## Apprentissage du modèle de peau
 On souhaite mettre en place un système pour détecter automatiquement la présence de visages sur des images. Ce système exploitera un modèle de couleur de peau gaussien multivarié et fonctionnera sur le principe d'un classifieur bayésien optimal, avec modèles de gaussiennes.
