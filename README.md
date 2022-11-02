@@ -31,3 +31,5 @@ Donc le modèle de probabilité théorique le plus adapter pour modéliser les c
 
 ## Application du modèle à une image test
 On souhaite étudier la pertinence du modèle appris précédemment en l'appliquant sur des images d'entrée. Pour une image d'entrée (non utilisée pour l'apprentissage), on souhaite regarder pour chaque pixel s la valeur de la probabilité $p (\mathbf{x}_s | \omega_1)$ en utilisant la loi estimée précédemment.
+<img style="float: left" width="100%" alt="im01"  src="https://github.com/SABIR-ILYASS/Detection-de-visage-automatique-Decision-bayesienne/blob/main/images_for_Markdown/0004.png">
+<img style="float: left" width="100%" alt="im01"  src="https://github.com/SABIR-ILYASS/Detection-de-visage-automatique-Decision-bayesienne/blob/main/images_for_Markdown/0005.png">
